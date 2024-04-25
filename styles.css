@@ -1,0 +1,30 @@
+#count_lab{
+    display: block;
+    text-align: center;
+    font-size: 10em;
+    font-weight: bold;
+    color: #000;
+    margin-top: 10px;
+    font-family: Helvetica;
+}
+#btnContainer{
+    text-align: center;
+}
+.btn{
+    padding: 10px 20px;
+    font-size: 20px;
+    color: aliceblue;
+    font-weight: bold;
+    color: #000;
+    margin-top: 10px;
+    font-family: Helvetica;
+    text-align: center;
+    background-color: hsl(133, 94%, 28%);
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+.btn:hover{
+    background-color: hsl(119, 85%, 13%);
+}
+
